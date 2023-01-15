@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IT21181788
+- 👋 Hi, I’m praveen 
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
  
